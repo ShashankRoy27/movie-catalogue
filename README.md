@@ -1,6 +1,8 @@
 # movie-catalogue
 The website is hosted on Netlify. Link for it: https://boisterous-druid-d91784.netlify.app/
 
+It is an appealing and intuitive user interface. It has been engineered with Redux, achieving fast and efficient data mangement.
+Key features involve movie searching, comprehensive movie data presentation, and personalized movie suggestions.
 This is a movie catalogue. This web application allows users to browse and search for movies, providing details such as titles, descriptions, and other relevant information. The site is responsive, ensuring usability across various devices, including desktops and mobile phones.
 
 Technologies Used:
